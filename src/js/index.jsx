@@ -10,7 +10,7 @@ var CONTACTS = {
   0: {
     id: 0,
     name: 'Sarah Hughes',
-    phoneNumber: '01234 567890'
+    phoneNumber: '01234 123456'
   },
   1: {
     id: 1,
